@@ -1,7 +1,7 @@
 # Synthetic haematology panel dataset and pipeline validation
  
 <!-- Replace <user>/<repo> in the badge link once the repo exists. -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<user>/<repo>/blob/main/notebooks/02_simulated_dataset.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leongriner-portfolio/synth-haem/blob/main/synth_haem.ipynb)
  
 <!-- 2-3 sentences, your own words: what this is, what it measures, the headline result.
      Example shape: "A synthetic test dataset for a 150-gene haematology capture panel,
